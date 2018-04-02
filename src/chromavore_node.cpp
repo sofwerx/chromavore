@@ -3,7 +3,7 @@
  *
  *       Filename:  chromavore_node.cpp
  *
- *    Description:  Imeplementation of the chromavore node
+ *    Description:  Implementation of the chromavore node
  *
  *        Version:  1.0
  *        Created:  03/27/2018 12:38:27 PM
@@ -37,3 +37,5 @@
 
 #include "chromavore/chromavore_node.hpp"
 
+int main(int argc, char * argv[]) {
+}
